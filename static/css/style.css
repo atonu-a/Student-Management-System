@@ -1,0 +1,50 @@
+body {
+            background: #f5f7fb;
+            color: #1e293b;
+        }
+
+        .navbar {
+            background: #172554;
+        }
+
+        .navbar-brand {
+            font-weight: 700;
+        }
+
+        .main-content {
+            padding: 45px 0;
+        }
+
+        .page-title {
+            color: #172554;
+            font-weight: 700;
+        }
+
+        .card {
+            border: none;
+            border-radius: 12px;
+            box-shadow: 0 3px 15px rgba(0, 0, 0, .05);
+        }
+
+        .btn-primary {
+            background: #4338ca;
+            border-color: #4338ca;
+        }
+
+        .btn-primary:hover {
+            background: #3730a3;
+            border-color: #3730a3;
+        }
+
+        .table th {
+            background: #f8fafc;
+            color: #475569;
+            font-size: 13px;
+            text-transform: uppercase;
+            letter-spacing: .4px;
+        }
+
+        footer {
+            color: #64748b;
+            padding: 20px 0;
+        }
